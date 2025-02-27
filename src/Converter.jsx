@@ -36,7 +36,7 @@ try {
       <select>FROM</select><br/>
       <select>TO</select><br/>
 <br />
-      <button onClick={() => getData()}>Get Data</button>
+      <button onClick={() => convert()}>GO!</button>
     </div>
   );
 }
